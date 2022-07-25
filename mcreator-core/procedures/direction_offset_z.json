@@ -1,0 +1,21 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "direction",
+      "check": "Direction"
+    }
+  ],
+  "output": "Number",
+  "colour": "%{BKY_MATH_HUE}",
+  "mcreator": {
+    "group": "offset",
+    "toolbox_id": "directionactions",
+    "toolbox_init": [
+      "<value name=\"direction\"><block type=\"direction_from_deps\"></block></value>"
+    ],
+    "inputs": [
+      "direction"
+    ]
+  }
+}
