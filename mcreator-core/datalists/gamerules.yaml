@@ -1,0 +1,70 @@
+- ANNOUNCE_ADVANCEMENTS:
+  type: logic
+- COMMAND_BLOCK_OUTPUT:
+  type: logic
+- DISABLE_ELYTRA_MOVEMENT_CHECK:
+  type: logic
+- DISABLE_RAIDS:
+  type: logic
+- DO_DAYLIGHT_CYCLE:
+  type: logic
+- DO_ENTITY_DROPS:
+  type: logic
+- DO_FIRE_TICK:
+  type: logic
+- DO_INSOMNIA:
+  type: logic
+- DO_IMMEDIATE_RESPAWN:
+  type: logic
+- DO_LIMITED_CRAFTING:
+  type: logic
+- DO_MOB_LOOT:
+  type: logic
+- DO_MOB_SPAWNING:
+  type: logic
+- DO_TILE_DROPS:
+  type: logic
+- DO_WEATHER_CYCLE:
+  type: logic
+- DROWNING_DAMAGE:
+  type: logic
+- FALL_DAMAGE:
+  type: logic
+- FIRE_DAMAGE:
+  type: logic
+- KEEP_INVENTORY:
+  type: logic
+- LOG_ADMIN_COMMANDS:
+  type: logic
+- MOB_GRIEFING:
+  type: logic
+- NATURAL_REGENERATION:
+  type: logic
+- REDUCED_DEBUG_INFO:
+  type: logic
+- SEND_COMMAND_FEEDBACK:
+  type: logic
+- SHOW_DEATH_MESSAGES:
+  type: logic
+- SPECTATORS_GENERATE_CHUNKS:
+  type: logic
+- MAX_COMMAND_CHAIN_LENGTH:
+  type: number
+- MAX_ENTITY_CRAMMING:
+  type: number
+- RANDOM_TICK_SPEED:
+  type: number
+- SPAWN_RADIUS:
+  type: number
+- DO_PATROL_SPAWNING:
+  type: logic
+- DO_TRADER_SPAWNING:
+  type: logic
+- FORGIVE_DEAD_PLAYERS:
+  type: logic
+- UNIVERSAL_ANGER:
+  type: logic
+- PLAYERS_SLEEPING_PERCENTAGE:
+  type: number
+- FREEZE_DAMAGE:
+  type: logic

@@ -1,0 +1,152 @@
+- GROUND:
+  texture: DIRT
+- WOOD:
+  texture: PLANKS#0
+- PLANT:
+  texture: RED_FLOWER#0
+- LILY_PADS:
+  texture: WATERLILY
+- STONE:
+  texture: STONE
+- METAL:
+  texture: IRON_BLOCK
+- GLASS:
+  texture: GLASS
+- CLOTH:
+  texture: WOOL#0
+- SAND:
+  texture: SAND#0
+- SNOW:
+  texture: SNOW
+- LADDER:
+  texture: LADDER
+- ANVIL:
+  texture: ANVIL
+- SLIME:
+  texture: SLIME_BLOCK
+- WET_GRASS:
+  texture: GRASS
+- CORAL:
+  texture: BUBBLE_CORAL_FAN
+- BAMBOO:
+  texture: BAMBOO
+- BAMBOO_SAPLING:
+  texture: BAMBOO_SAPLING
+- SCAFFOLDING:
+  texture: SCAFFOLDING
+- SWEET_BERRY_BUSH:
+  texture: SWEET_BERRIES
+- CROP:
+  texture: WHEAT
+- STEM:
+  texture: MELON_STEM
+- VINE:
+  texture: VINE
+- NETHER_WART:
+  texture: NETHER_WART
+- LANTERN:
+  texture: LANTERN
+- HONEY:
+  texture: HONEY_BLOCK
+- HYPHAE:
+  texture: CRIMSON_STEM
+- NYLIUM:
+  texture: CRIMSON_NYLIUM
+- FUNGUS:
+  texture: CRIMSON_FUNGUS
+- ROOT:
+  texture: WARPED_ROOTS
+- SHROOMLIGHT:
+  texture: SHROOMLIGHT
+- NETHER_VINE:
+  texture: WEEPING_VINES
+- NETHER_VINE_LOWER_PITCH:
+  texture: WEEPING_VINES
+- SOUL_SAND:
+  texture: SOUL_SAND
+- SOUL_SOIL:
+  texture: SOUL_SOIL
+- BASALT:
+  texture: BASALT
+- WART:
+  texture: NETHER_WART_BLOCK
+- NETHERRACK:
+  texture: NETHERRACK
+- NETHER_BRICK:
+  texture: NETHER_BRICK
+- NETHER_SPROUT:
+  texture: NETHER_SPROUTS
+- NETHER_ORE:
+  texture: NETHER_GOLD_ORE
+- BONE:
+  texture: BONE_BLOCK
+- NETHERITE:
+  texture: NETHERITE_BLOCK
+- ANCIENT_DEBRIS:
+  texture: ANCIENT_DEBRIS
+- LODESTONE:
+  texture: LODESTONE
+- CHAIN:
+  texture: CHAIN
+- NETHER_GOLD:
+  texture: NETHER_GOLD_ORE
+- GILDED_BLACKSTONE:
+  texture: GILDED_BLACKSTONE
+- AMETHYST_BLOCK:
+  texture: AMETHYST_BLOCK
+- AMETHYST_CLUSTER:
+  texture: AMETHYST_CLUSTER
+- AZALEA:
+  texture: AZALEA
+- AZALEA_LEAVES:
+  texture: AZALEA_LEAVES
+- BIG_DRIPLEAF:
+  texture: BIG_DRIPLEAF
+- CANDLE:
+  texture: CANDLE
+- CALCITE:
+  texture: CALCITE
+- CAVE_VINES:
+  texture: CAVE_VINES
+- COPPER:
+  texture: COPPER_BLOCK
+- DEEPSLATE:
+  texture: DEEPSLATE
+- DEEPSLATE_BRICKS:
+  texture: DEEPSLATE_BRICKS
+- DEEPSLATE_TILES:
+  texture: DEEPSLATE_TILES
+- DRIPSTONE_BLOCK:
+  texture: DRIPSTONE_BLOCK
+- FLOWERING_AZALEA:
+  texture: FLOWERING_AZALEA
+- GLOW_LICHEN:
+  texture: GLOW_LICHEN
+- HANGING_ROOTS:
+  texture: HANGING_ROOTS
+- LARGE_AMETHYST_BUD:
+  texture: LARGE_AMETHYST_BUD
+- MEDIUM_AMETHYST_BUD:
+  texture: MEDIUM_AMETHYST_BUD
+- MOSS_CARPET:
+  texture: MOSS_CARPET
+- MOSS_BLOCK:
+  texture: MOSS_BLOCK
+- POINTED_DRIPSTONE:
+  texture: POINTED_DRIPSTONE
+- POLISHED_DEEPSLATE:
+  texture: POLISHED_DEEPSLATE
+- POWDER_SNOW:
+  texture: POWDER_SNOW
+- ROOTED_DIRT:
+  texture: ROOTED_DIRT
+- SCULK_SENSOR:
+  texture: SCULK_SENSOR
+- SMALL_AMETHYST_BUD:
+  texture: SMALL_AMETHYST_BUD
+- SMALL_DRIPLEAF:
+  texture: SMALL_DRIPLEAF
+- SPORE_BLOSSOM:
+  texture: SPORE_BLOSSOM
+- TUFF:
+  texture: TUFF
