@@ -1,0 +1,4 @@
+[
+	".yRot = netHeadYaw / (180F / (float)Math.PI);",
+	".xRot = headPitch / (180F / (float)Math.PI);"
+]

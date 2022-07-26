@@ -1,0 +1,3 @@
+[
+    ".xRot = Mth.cos(limbSwing * 0.6662F) * limbSwingAmount;"
+]
