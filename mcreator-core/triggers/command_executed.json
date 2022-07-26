@@ -1,0 +1,34 @@
+{
+  "dependencies_provided": [
+    {
+      "name": "entity",
+      "type": "entity"
+    },
+    {
+      "name": "world",
+      "type": "world"
+    },
+    {
+      "name": "x",
+      "type": "number"
+    },
+    {
+      "name": "y",
+      "type": "number"
+    },
+    {
+      "name": "z",
+      "type": "number"
+    },
+    {
+      "name": "command",
+      "type": "string"
+    },
+    {
+      "name": "arguments",
+      "type": "cmdcontext"
+    }
+  ],
+  "cancelable": "true",
+  "side": "server"
+}

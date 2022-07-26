@@ -1,0 +1,46 @@
+{
+  "dependencies_provided": [
+    {
+      "name": "entity",
+      "type": "entity"
+    },
+    {
+      "name": "blockstate",
+      "type": "blockstate"
+    },
+    {
+      "name": "placedagainst",
+      "type": "blockstate"
+    },
+    {
+      "name": "x",
+      "type": "number"
+    },
+    {
+      "name": "y",
+      "type": "number"
+    },
+    {
+      "name": "z",
+      "type": "number"
+    },
+    {
+      "name": "px",
+      "type": "number"
+    },
+    {
+      "name": "py",
+      "type": "number"
+    },
+    {
+      "name": "pz",
+      "type": "number"
+    },
+    {
+      "name": "world",
+      "type": "world"
+    }
+  ],
+  "cancelable": "true",
+  "side": "server"
+}
