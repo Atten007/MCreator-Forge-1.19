@@ -1,10 +1,10 @@
 name: Minecraft Forge for @minecraft (@buildfileversion)
 status: alpha
-buildfileversion: 41.0.35
+buildfileversion: 41.0.111
 
 java_models:
   key: mojmap-1.19.x
-  compatible: [mojmap-1.18.x]
+  compatible: [mojmap-1.19.x]
   requested_key_words: [ModelPart, ~ModelRenderer]
 
 # gradle task definitions
@@ -58,6 +58,7 @@ base_templates:
       - ${w.hasGameRulesOfType('Number') || w.hasGameRulesOfType('Logic')}
       - ${w.hasElementsOfType('dimension') || w.hasElementsOfType('biome')}
       - ${w.hasToolsOfType('Fishing rod')}
+      - ${w.hasElementsOfType('villagerprofession')}
 
 sources_setup_tasks:
   - task: copy_models
