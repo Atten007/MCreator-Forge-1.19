@@ -1,0 +1,29 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "compareTo",
+      "check": "Entity"
+    },
+    {
+      "type": "field_data_list_selector",
+      "name": "entity",
+      "datalist": "entity"
+    }
+  ],
+  "inputsInline": true,
+  "output": "Boolean",
+  "colour": "%{BKY_LOGIC_HUE}",
+  "mcreator": {
+    "toolbox_id": "logicoperations",
+    "toolbox_init": [
+      "<value name=\"compareTo\"><block type=\"entity_from_deps\"></block></value>"
+    ],
+    "fields": [
+      "entity"
+    ],
+    "inputs": [
+      "compareTo"
+    ]
+  }
+}

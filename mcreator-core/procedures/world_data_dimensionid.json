@@ -1,0 +1,13 @@
+{
+  "output": "DimensionType",
+  "colour": 123,
+  "mcreator": {
+    "toolbox_id": "worlddata",
+    "dependencies": [
+      {
+        "name": "world",
+        "type": "world"
+      }
+    ]
+  }
+}
