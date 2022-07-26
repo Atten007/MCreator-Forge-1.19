@@ -1,0 +1,14 @@
+{
+  "extensions": [
+    "dimension_list_provider"
+  ],
+  "inputsInline": true,
+  "output": "DimensionType",
+  "colour": 123,
+  "mcreator": {
+    "toolbox_id": "mcelements",
+    "fields": [
+      "dimension"
+    ]
+  }
+}

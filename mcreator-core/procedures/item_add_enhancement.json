@@ -1,0 +1,38 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "level",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "item",
+      "check": "MCItem"
+    },
+    {
+      "type": "field_data_list_selector",
+      "name": "enhancement",
+      "datalist": "enchantment"
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 350,
+  "mcreator": {
+    "group": "enchanting",
+    "toolbox_id": "itemmanagement",
+    "toolbox_init": [
+      "<value name=\"level\"><block type=\"math_number\"><field name=\"NUM\">10</field></block></value>",
+      "<value name=\"item\"><block type=\"itemstack_to_mcitem\"></block></value>"
+    ],
+    "fields": [
+      "enhancement"
+    ],
+    "inputs": [
+      "level",
+      "item"
+    ]
+  }
+}
